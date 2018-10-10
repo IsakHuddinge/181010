@@ -4,24 +4,26 @@
 10 cars
 0-8 hours
 
-Cars are picked up and left at the company
+Cars are picked up and left at the company (no address needed)
 
-# Site Layout
+### Site Layout
 
-Layout
+#### Layout
 * navigation (Home, booking, register?)
 * footer (copyright?)
 
-Home
+#### Home
 * welcome
 * info
 
-Booking 
+#### Booking 
 * list of cars
+  * available (if empty show text)
+  * booked (show time until available) (if empty show text)
 * time
 * book (send to registraition page)
 
-Registraition
+#### Registraition
 * Name
 * E-mail
 * Phone number
