@@ -38,7 +38,7 @@ sent here after booking
 * register (send to succesful booking page)
 
 
-## class
+## model
 ### Car
 #### properties:
 * string    model 
