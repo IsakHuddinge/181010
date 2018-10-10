@@ -37,3 +37,11 @@ sent here after booking
 * körkorts uppgifter
 * register (send to succesful booking page)
 
+
+## class
+### Car
+#### properties:
+* string    model 
+* string    color
+* string    registryNumber
+* bool      booked
