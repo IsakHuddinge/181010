@@ -44,4 +44,16 @@ sent here after booking
 * string    model 
 * string    color
 * string    registryNumber
-* bool      booked
+
+### customer
+* string    name
+* string    E-mail
+* string    phone-number
+* körkortsuppgifter
+
+### booking
+* car
+* customer
+* FromBookDate
+* ToBookDate
+
