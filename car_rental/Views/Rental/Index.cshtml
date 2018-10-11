@@ -1,0 +1,12 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    @model List<car_rental.Models.Car>
+}
+
+<h2>Index</h2>
+
+@foreach (var item in Model)
+{
+    <li>@item.RegistrationNumber</li>
+}
